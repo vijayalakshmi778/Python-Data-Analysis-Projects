@@ -1,0 +1,45 @@
+Order_ID,Customer_Name,City,Product,Category,Quantity,Price,Order_Date,Payment_Mode,Salesperson,Customer_Rating,Total_Price
+1001,Arun Kumar,Chennai,Laptop,Electronics,1,55000,01-09-2026,Cash,Ravi,4,55000
+1002,Priya Sharma,Chennai,Mouse,Electronics,2,850,01-01-2026,Upi,Meena,5,1700
+1003,Rahul Verma,Chennai,Keyboard,Electronics,1,1800,01-01-2026,Upi,Ravi,4,1800
+1004,Divya Raj,Bangalore,Monitor,Electronics,1,12500,01-01-2026,Card,Suresh,3,12500
+1005,Karthik S,Bangalore,Office Chair,Furniture,2,6500,03-09-2026,Card,Meena,5,13000
+1006,Unknown,Hyderabad,Desk,Furniture,1,8500,01-01-2026,Cash,Ravi,4,8500
+1007,Vijay Kumar,Hyderabad,Laptop Stand,Accessories,2,2200,05-09-2026,Cash,Suresh,4,4400
+1008,Anjali Rao,Mumbai,Webcam,Accessories,1,3200,01-01-2026,Upi,Meena,5,3200
+1009,Manoj Patel,Mumbai,Headphones,Electronics,1,780,06-09-2026,Upi,Ravi,3,780
+1010,Asha Nair,Pune,Keyboard,Electronics,2,1750,07-09-2026,Card,Suresh,4,3500
+1011,Rohit Das,Pune,Monitor,Electronics,1,11800,01-01-2026,Cash,Meena,5,11800
+1013,Arun Kumar,Chennai,Laptop,Electronics,1,55000,01-09-2026,Cash,Ravi,4,55000
+1014,Pooja Menon,Kochi,Desk,Furniture,1,7800,01-01-2026,Card,Suresh,5,7800
+1015,Ramesh B,Kochi,Mouse,Electronics,3,800,10-09-2026,Upi,Meena,4,2400
+1016,Sanjay Rao,Chennai,Webcam,Accessories,2,3100,01-01-2026,Cash,Ravi,3,6200
+1018,Ajay Kumar,Delhi,Laptop Stand,Accessories,1,2100,01-01-2026,Upi,Meena,5,2100
+1019,Meena Krishnan,Hyderabad,Laptop,Electronics,1,56000,12-09-2026,Cash,Ravi,4,56000
+1020,Varun Shah,Mumbai,Monitor,Electronics,2,12000,01-01-2026,Card,Suresh,3,24000
+1021,Nithya S,Chennai,Office Chair,Furniture,1,6400,13-09-2026,Upi,Meena,5,6400
+1023,Keerthi M,Bangalore,Keyboard,Electronics,1,1900,14-09-2026,Upi,Suresh,4,1900
+1024,Suresh Kumar,Hyderabad,Mouse,Electronics,4,820,01-01-2026,Cash,Meena,5,3280
+1025,Pavithra R,Pune,Webcam,Accessories,1,3300,15-09-2026,Card,Ravi,4,3300
+1026,Gokul Raj,Delhi,Headphones,Electronics,2,2750,01-01-2026,Upi,Suresh,3,5500
+1027,Ishita Sen,Kolkata,Laptop Stand,Accessories,2,2300,16-09-2026,Cash,Meena,5,4600
+1028,Deepak Singh,Kolkata,Laptop,Electronics,1,54000,01-01-2026,Card,Ravi,4,54000
+1030,Naveen P,Chennai,Desk,Furniture,1,8000,01-01-2026,Cash,Meena,4,8000
+1031,Sowmya R,Chennai,Office Chair,Furniture,2,6300,18-09-2026,Upi,Ravi,5,12600
+1032,Hari Krish,Hyderabad,Keyboard,Electronics,1,1850,01-01-2026,Card,Suresh,4,1850
+1033,Swathi Rao,Mumbai,Mouse,Electronics,2,900,01-01-2026,Cash,Meena,3,1800
+1034,Prakash N,Mumbai,Webcam,Accessories,1,3150,01-01-2026,Upi,Ravi,4,3150
+1036,Mohan Raj,Delhi,Laptop Stand,Accessories,3,2050,01-01-2026,Cash,Meena,4,6150
+1037,Riya Kapoor,Kolkata,Monitor,Electronics,1,12100,21-09-2026,Upi,Ravi,5,12100
+1038,Abhishek T,Kolkata,Laptop,Electronics,1,57000,01-01-2026,Card,Suresh,4,57000
+1039,Farah Khan,Kochi,Desk,Furniture,1,7900,22-09-2026,Cash,Meena,5,7900
+1040,Naveen P,Chennai,Mouse,Electronics,2,780,01-01-2026,Upi,Ravi,4,1560
+1041,Divya Raj,Bangalore,Keyboard,Electronics,1,1800,23-09-2026,Card,Suresh,3,1800
+1042,Siva Kumar,Hyderabad,Office Chair,Furniture,1,6100,01-01-2026,Cash,Meena,4,6100
+1043,Anita Roy,Delhi,Webcam,Accessories,2,3250,24-09-2026,Upi,Ravi,5,6500
+1044,Rahul Verma,Chennai,Laptop,Electronics,1,55500,01-01-2026,Card,Suresh,4,55500
+1045,Priya Sharma,Chennai,Monitor,Electronics,1,12300,25-09-2026,Upi,Meena,5,12300
+1047,Rohit Das,Pune,Headphones,Electronics,2,2850,01-01-2026,Card,Suresh,3,5700
+1049,Maya S,Kochi,Mouse,Electronics,2,780,27-09-2026,Cash,Ravi,4,1560
+1050,Vikram J,Bangalore,Office Chair,Furniture,1,6600,01-01-2026,Card,Suresh,5,6600
+1010,Rohit Das,Pune,Keyboard,Electronics,2,1750,07-09-2026,Card,Suresh,4,3500
