@@ -67,6 +67,4 @@ Customer-Sales-Data-Analysis/
 
 This project helped me practice data cleaning, data transformation, feature creation, and basic data analysis using Pandas.
 
-## Author
 
-Chandrahari V
